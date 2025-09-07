@@ -39,17 +39,17 @@ By combining open data sources and geospatial analysis, the notebook uncovers ho
 
 ---
 
-## 📷 Sample Visuals
-_(add your generated images here, for example:)_  
+## 📷 Sample Visuals 
 
 **Parking Revenue Recovery (2024 vs 2018)**  
-![Parking Revenue Map](https://imgur.com/a/JiFVxZL) 
+<img src="https://imgur.com/mm2Jpkw.png" alt="Parking Revenue" width="600"/>
 
 **Muni Ridership Ratios (2024 vs 2018)**  
-![Muni Ridership](figures/muni_ratio_map.png)  
+<img src="https://imgur.com/GH6Tw9x.png" alt="Muni Ridership" width="600"/>
+
 
 **BART Exits at SF Stations (2014–2024)**  
-![BART Exits](figures/bart_exits_timeseries.png)  
+<img src="https://imgur.com/Jjpf6xX.png" alt="BART Exits" width="600"/> 
 
 ---
 
