@@ -43,7 +43,7 @@ By combining open data sources and geospatial analysis, the notebook uncovers ho
 _(add your generated images here, for example:)_  
 
 **Parking Revenue Recovery (2024 vs 2018)**  
-![Parking Revenue](figures/parking_revenue_map.png)  
+![Parking Revenue Map](https://imgur.com/a/JiFVxZL) 
 
 **Muni Ridership Ratios (2024 vs 2018)**  
 ![Muni Ridership](figures/muni_ratio_map.png)  
