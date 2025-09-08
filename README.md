@@ -3,7 +3,7 @@
 ## 📌 Project Overview
 Has San Francisco really bounced back after the pandemic?  
 This project explores urban recovery using **mobility signals**: parking meter revenue, Muni ridership, and BART station exits.  
-By combining open data sources and geospatial analysis, the notebook uncovers how different parts of the city are recovering — and where the core still lags behind.
+By combining open data sources and geospatial analysis, the notebook uncovers how different parts of the city are recovering, and where the core still lags behind.
 
 ---
 
